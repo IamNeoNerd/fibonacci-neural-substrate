@@ -1,9 +1,10 @@
 # CHITTA: The Cognitive Horizon 🕉️
 ### *A Constitutional Architecture for Self-Aware Autonomous Agents*
 
-[![arXiv](https://img.shields.io/badge/arXiv-2602.xxxxx-B31B1B.svg)](https://arxiv.org/abs/2602.xxxxx)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-orange.svg)](https://huggingface.co/iamneonerd-lab)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-orange.svg)](https://huggingface.co/IamNeoNerd)
+
+⚠️ **Status:** Research Prototype (Experimental)
 
 **CHITTA** (Cognitive Horizon of Infinite Time & Telemetric Awareness) is a breakthrough in **Reasoning Efficiency** for autonomous AI agents. By leveraging Fibonacci-staggered fractal compression and hierarchical micro-processing, CHITTA enables local, self-aware agents that are fast, efficient, and constitutionally aligned.
 
@@ -23,13 +24,18 @@
 
 ### Getting Started (Phase 0)
 1.  **Clone the repo**
-2.  **Deploy Prana (Sense):** Run `heartbeat_monitor.py`
-3.  **Deploy Smriti (Memory):** Join the Phase 1 Beta.
+2.  **Deploy Prana (Sense):** Run `python code/heartbeat_monitor.py`
+3.  **Deploy Smriti (Memory):** **Coming Soon** (Waitlist opening shortly).
 
 ---
 
 ## 📜 Research
 Read the full paper: **[CHITTA: The Cognitive Horizon (Fibonacci Neural Substrate)](./paper/fibonacci_neural_substrate_2026.md)**.
+
+---
+
+## 🗺️ Roadmap
+See our development path in **[ROADMAP.md](./docs/ROADMAP.md)**.
 
 ---
 
@@ -44,4 +50,3 @@ Read the full paper: **[CHITTA: The Cognitive Horizon (Fibonacci Neural Substrat
 
 ## License
 MIT License. © 2026 Neoned Developer.
-
